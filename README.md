@@ -13,7 +13,7 @@
     <p> 
       <ul>
         <li>Change Marker style.</li>
-        <li>Add bus ID to be tracked.</li>
+        <li>Add tracked bus ID.</li>
         <li>Track multiple buses.</li>
       </ul>
     </p>
