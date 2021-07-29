@@ -1,8 +1,8 @@
 <html>
   <h1>Real Time Bus Tracker</h1>
-    <p>This project tracks a bus from <a hreg="https://api-v3.mbta.com/">MBTA V3 API Portal<a>. The information is updated every 10 seconds and tracks a predefined bus which follows a trajectory between Harvard, MIT and surroundigs.</p>  
+    <p>This project tracks a bus from <a href="https://api-v3.mbta.com/">MBTA V3 API Portal<a>. The bus location information is updated every 10 seconds and tracks a predefined bus which follows a trajectory between Harvard, MIT and surroundigs.</p>  
   <h1> Usage and Support </h1>
-    <p>In order to use this code, you only need to have 4 Pacman images, two from right to left with open and closed mouth and two from left to right with open and closed mouth.       </p>
+    <p>In order to use this code, you have two buttons, Start Tracking and Stop Tracking, these buttons allows the user to watch the marker moving along the bus actual position fetched from MBTA V3 API Portal.</p>
     <p> The program has two functions </p>
       <ul>
         <li>Run() function: This will contain all necessarry logic to move Pacman from one side to the other.</li>
